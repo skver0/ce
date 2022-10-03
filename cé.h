@@ -35,3 +35,4 @@
 #define folytat continue
 #define beolvas scanf
 #define rekord struct
+#define ugrás goto
