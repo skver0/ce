@@ -1,4 +1,4 @@
-#define és &&
+﻿#define és &&
 #define vagy ||
 #define nemegyenlő !=
 #define egyenlő ==
@@ -21,6 +21,7 @@
 #define semmi null
 // ez eléggé KOntröversál ezért nem kötelező cé-ben
 #define sorvége ;
+//-------------------------------------------------
 #define osztás /
 #define összeadás +
 #define kivonás -
@@ -36,3 +37,9 @@
 #define beolvas scanf
 #define rekord struct
 #define ugrás goto
+#define kezdő main()
+// ez se kötelező mert brutálisan eltörik a kód formázó úgy mint a ;-esetében
+#define kódblockeleje {
+#define kódblockvége }
+//---------------------------------------------------------------------------
+#define sortörés "\n"
