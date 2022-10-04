@@ -7,12 +7,24 @@
 #define kisebbmint <
 #define nagyobbvagyegyenlő >=
 #define kisebbvagyegyenlő <=
+#define megmeg ++
+#define bölböl --
+#define megegyenlő +=
+#define bölegyenlő -=
+#define szoregyenlő *=
+#define maradékegyenlő %=
+#define osztásegyenlő /=
 #define ciklus for
 #define mérete sizeof
 #define egész int
 #define floá float
 #define dupla double
 #define űr void
+#define hosszú long
+#define nagyonhosszú long long
+#define előjeles signed
+#define előjelnélküli unsigned
+#define rövid short
 #define amíg while
 #define csináld do
 #define igaz 1
@@ -53,8 +65,12 @@
 #define vessző ,
 // ------------------------------------------------
 #define egészÚjSor "%d\n"
-#define egészmutató int*
-#define floámutató float*
-#define karaktermutató char*
-#define űrmutató void*
-#define duplamutató double*
+#define egészmutató int *
+#define floámutató float *
+#define karaktermutató char *
+#define űrmutató void *
+#define duplamutató double *
+#define duplamutató double *
+#define rövidmutató short *
+#define hosszúmutató long *
+#define nagyonhosszúmutató long long *
