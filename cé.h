@@ -5,6 +5,8 @@
 #define értékadás =
 #define nagyobbmint >
 #define kisebbmint <
+#define nagyobbvagyegyenlő >=
+#define kisebbvagyegyenlő <=
 #define ciklus for
 #define mérete sizeof
 #define egész int
