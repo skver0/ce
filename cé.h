@@ -43,3 +43,5 @@
 #define kódblokkvége }
 //---------------------------------------------------------------------------
 #define sortörés "\n"
+#define nyitózárójel (
+#define zárózárójel )
