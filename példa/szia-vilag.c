@@ -3,9 +3,9 @@
 
 egész kezdő
 kódblokkeleje
-	amíg(igaz)
+	amíg nyitózárójel igaz zárózárójel
 	kódblokkeleje
-		kiír("Szia Vilag!%s", sortörés) sorvége
+		kiír nyitózárójel "Szia Vilag!%s", sortörés zárózárójel sorvége
 	kódblokkvége
 	visszatér 0 sorvége
 kódblokkvége
