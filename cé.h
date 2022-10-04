@@ -18,7 +18,7 @@
 #define ha if
 #define kiír printf
 #define visszatér return
-#define semmi null
+#define semmi NULL
 // ez eléggé KOntröversál ezért nem kötelező cé-ben
 #define sorvége ;
 //-------------------------------------------------
@@ -50,4 +50,9 @@
 #define szögleteszárózárójel ]
 #define vessző ,
 // ------------------------------------------------
-#define  egészÚjSor "%d\n"
+#define egészÚjSor "%d\n"
+#define egészmutató int*
+#define floámutató float*
+#define karaktermutató char*
+#define űrmutató void*
+#define duplamutató double*
