@@ -37,7 +37,7 @@
 #define beolvas scanf
 #define rekord struct
 #define ugrás goto
-#define kezdő main()
+#define kezdő main
 // ez se kötelező mert brutálisan eltörik a kód formázó úgy mint a ;-esetében
 #define kódblokkeleje {
 #define kódblokkvége }

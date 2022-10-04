@@ -1,7 +1,7 @@
 ﻿#include "cé.h"
 #include <stdio.h>
 
-egész kezdő
+egész kezdő nyitózárójel zárózárójel
 kódblokkeleje
 	amíg nyitózárójel igaz zárózárójel
 	kódblokkeleje

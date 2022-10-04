@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "cé.h"
 
-egész kezdő kódblokkeleje
+egész kezdő nyitózárójel zárózárójel kódblokkeleje
 	egész tömb szögletesnyitózárójel szögleteszárózárójel értékadás kódblokkeleje 1 vessző -1 vessző 0 vessző 2 vessző 3 vessző 4 vessző 5 vessző 6 vessző 7 vessző 8 vessző 9 vessző 10 kódblokkvége sorvége
 	
 	egész min értékadás tömb szögletesnyitózárójel 0 szögleteszárózárójel sorvége
