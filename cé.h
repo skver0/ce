@@ -50,3 +50,4 @@
 #define szögleteszárózárójel ]
 #define vessző ,
 // ------------------------------------------------
+#define  egészÚjSor "%d\n"
