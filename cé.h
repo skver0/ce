@@ -39,7 +39,7 @@
 #define ugrás goto
 #define kezdő main()
 // ez se kötelező mert brutálisan eltörik a kód formázó úgy mint a ;-esetében
-#define kódblockeleje {
-#define kódblockvége }
+#define kódblokkeleje {
+#define kódblokkvége }
 //---------------------------------------------------------------------------
 #define sortörés "\n"

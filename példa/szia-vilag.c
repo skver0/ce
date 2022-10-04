@@ -1,10 +1,11 @@
 ﻿#include "cé.h"
+#include <stdio.h>
 
 egész kezdő
-kódblockeleje
+kódblokkeleje
 	amíg(igaz)
-	kódblockeleje
+	kódblokkeleje
 		kiír("Szia Vilag!%s", sortörés) sorvége
-	kódblockvége
+	kódblokkvége
 	visszatér 0 sorvége
-kódblockvége
+kódblokkvége
