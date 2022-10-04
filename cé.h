@@ -46,4 +46,6 @@
 // EZ is KOntröversál
 #define nyitózárójel (
 #define zárózárójel )
+#define szögletesnyitózárójel [
+#define szögleteszárózárójel ]
 // ------------------------------------------------
