@@ -17,6 +17,6 @@ egész kezdő nyitózárójel zárózárójel kódblokkeleje
 			min2 értékadás tömb szögletesnyitózárójel i szögleteszárózárójel sorvége
 	kódblokkvége
 	
-	kiír nyitózárójel "%d\n" vessző min zárózárójel sorvége
+	kiír nyitózárójel egészÚjSor vessző min2 zárózárójel sorvége
 	visszatér hamis sorvége
 kódblokkvége
