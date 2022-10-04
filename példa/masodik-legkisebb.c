@@ -18,5 +18,5 @@ egész kezdő kódblokkeleje
 	kódblokkvége
 	
 	kiír nyitózárójel "%d\n" vessző min zárózárójel sorvége
-	visszatér 0 sorvége
+	visszatér hamis sorvége
 kódblokkvége

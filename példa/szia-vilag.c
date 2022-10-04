@@ -7,5 +7,5 @@ kódblokkeleje
 	kódblokkeleje
 		kiír nyitózárójel "Szia Vilag!%s", sortörés zárózárójel sorvége
 	kódblokkvége
-	visszatér 0 sorvége
+	visszatér hamis sorvége
 kódblokkvége
