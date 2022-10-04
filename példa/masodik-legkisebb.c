@@ -2,7 +2,7 @@
 #include "cé.h"
 
 egész kezdő kódblokkeleje
-	egész tömb szögletesnyitózárójel szögleteszárózárójel értékadás kódblokkeleje 1,-1,0,2,3,4,5,6,7,8,9,10 kódblokkvége sorvége
+	egész tömb szögletesnyitózárójel szögleteszárózárójel értékadás kódblokkeleje 1 vessző -1 vessző 0 vessző 2 vessző 3 vessző 4 vessző 5 vessző 6 vessző 7 vessző 8 vessző 9 vessző 10 kódblokkvége sorvége
 	
 	egész min értékadás tömb szögletesnyitózárójel 0 szögleteszárózárójel sorvége
 	egész min2 értékadás tömb szögletesnyitózárójel 0 szögleteszárózárójel sorvége
@@ -17,6 +17,6 @@ egész kezdő kódblokkeleje
 			min2 értékadás tömb szögletesnyitózárójel i szögleteszárózárójel sorvége
 	kódblokkvége
 	
-	kiír nyitózárójel "%d\n", min zárózárójel sorvége
+	kiír nyitózárójel "%d\n" vessző min zárózárójel sorvége
 	visszatér 0 sorvége
 kódblokkvége

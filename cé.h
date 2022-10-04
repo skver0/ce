@@ -48,4 +48,5 @@
 #define zárózárójel )
 #define szögletesnyitózárójel [
 #define szögleteszárózárójel ]
+#define vessző ,
 // ------------------------------------------------
