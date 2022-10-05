@@ -33,7 +33,7 @@
 #define nagyonhosszú long long
 #define rövid short
 #define karakter char
-#define szöveg char[]
+#define szöveg char *
 #define konstans const
 #define rekord struct
 
