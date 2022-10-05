@@ -80,7 +80,15 @@
 #define vessző ,
 #define visszatér return
 
+// SZÖVEG LITERÁL
+#define nyitóidézőjel idézőjelben nyitózárójel
+#define záróidézőjel )
+#define idézőjelben(...) #__VA_ARGS__
+
 //  EGYÉB
 #define ugrás goto
 #define mérete sizeof
 #define semmi NULL
+
+// Szöveg literálok használatához szükséges
+#define cékód(...) __VA_ARGS__
