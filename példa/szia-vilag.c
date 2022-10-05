@@ -1,4 +1,4 @@
-﻿#include "cé.h"
+﻿#include "../cé.h"
 #include <stdio.h>
 
 egész kezdő nyitózárójel zárózárójel
