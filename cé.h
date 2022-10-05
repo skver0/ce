@@ -43,7 +43,6 @@
 #define karaktermutató char *
 #define űrmutató void *
 #define duplamutató double *
-#define duplamutató double *
 #define rövidmutató short *
 #define hosszúmutató long *
 #define nagyonhosszúmutató long long *
