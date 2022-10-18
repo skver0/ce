@@ -6,7 +6,7 @@ egész kezdő nyitózárójel zárózárójel
 kódblokkeleje
 	amíg nyitózárójel igaz zárózárójel
 	kódblokkeleje
-		kiír nyitózárójel nyitóidézőjel Szia Vilag! záróidézőjel sortörés zárózárójel sorvége
+		kiír nyitózárójel nyitóidézőjel Szia Vilag! \n záróidézőjel zárózárójel sorvége
 	kódblokkvége
 	visszatér hamis sorvége
 kódblokkvége
