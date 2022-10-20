@@ -39,7 +39,7 @@ kódblokkeleje
     ha nyitózárójel ellenőr nyitózárójel i vessző oszlop zárózárójel egyenlő 0 zárózárójel
     kódblokkeleje
       oszlopok szögletesnyitózárójel oszlop szögleteszárózárójel értékadás i sorvége
-      r += számolás nyitózárójel oszlop összeadás 1 zárózárójel sorvége
+      r megegyenlő számolás nyitózárójel oszlop összeadás 1 zárózárójel sorvége
       oszlopok szögletesnyitózárójel oszlop szögleteszárózárójel értékadás -1 sorvége
     kódblokkvége
   kódblokkvége
