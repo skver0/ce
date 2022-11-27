@@ -8,7 +8,7 @@
 #define nagyobbvagyegyenlő >=
 #define kisebbvagyegyenlő <=
 
-//	KETTES SZÁMRENDSZERŰ OPERÁTOROK
+//  KETTES SZÁMRENDSZERŰ OPERÁTOROK
 #define logikaiés &
 #define logikaivagy |
 #define kizáróvagy ^
