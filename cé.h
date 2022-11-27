@@ -1,4 +1,4 @@
-﻿//  LOGIKAI OPERÁTOROK
+//  LOGIKAI OPERÁTOROK
 #define és &&
 #define vagy ||
 #define nemegyenlő !=
@@ -7,6 +7,14 @@
 #define kisebbmint <
 #define nagyobbvagyegyenlő >=
 #define kisebbvagyegyenlő <=
+
+//	KETTES SZÁMRENDSZERŰ OPERÁTOROK
+#define logikaiés &
+#define logikaivagy |
+#define kizáróvagy ^
+#define negálás ~
+#define balramozgat <<
+#define jobbramozgat >>
 
 //  MŰVELETEK
 #define megmeg ++
@@ -36,6 +44,8 @@
 #define szöveg char *
 #define konstans const
 #define rekord struct
+#define kocsi auto
+#define fájl FILE
 
 //  POINTEREK
 #define egészmutató int *
@@ -46,6 +56,7 @@
 #define rövidmutató short *
 #define hosszúmutató long *
 #define nagyonhosszúmutató long long *
+#define fájlmutató FILE *
 
 //  LOGIKAI + hozzá tartozó
 #define ha if
@@ -78,6 +89,8 @@
 #define szögletesnyitózárójel [
 #define szögleteszárózárójel ]
 #define vessző ,
+#define nyíl ->
+#define pont .
 #define visszatér return
 
 // SZÖVEG LITERÁL
@@ -89,6 +102,10 @@
 #define ugrás goto
 #define mérete sizeof
 #define semmi NULL
+#define nevező typedef
+#define építő asm
+#define argumentumszámláló argc
+#define argumentumok argv
 
 // Szöveg literálok használatához szükséges
 #define cékód(...) __VA_ARGS__
