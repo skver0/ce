@@ -1,3 +1,6 @@
+﻿#ifdef CÉ_H
+#define CÉ_H
+
 //  LOGIKAI OPERÁTOROK
 #define és &&
 #define vagy ||
@@ -43,7 +46,7 @@
 #define karakter char
 #define szöveg char *
 #define konstans const
-#define rekord struct
+#define szerkezet struct
 #define kocsi auto
 #define fájl FILE
 
@@ -107,5 +110,15 @@
 #define argumentumszámláló argc
 #define argumentumok argv
 
-// Szöveg literálok használatához szükséges
+// SZÖVEG LITERÁLOK HASZNÁLATÁHOZ SZÜKSÉGES
 #define cékód(...) __VA_ARGS__
+
+// DINAMIKUS MEMÓRIA KEZELÉS
+#define memóriaelosztás malloc
+#define ingyen free
+#define újraelosztás realloc
+
+// TÍPUS MEGHATÁROZÁS
+#define típusmeghatározás typedef
+
+#endif
