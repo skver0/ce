@@ -46,7 +46,6 @@
 #define karakter char
 #define szöveg char *
 #define konstans const
-#define szerkezet struct
 #define kocsi auto
 #define fájl FILE
 
@@ -120,5 +119,8 @@
 
 // TÍPUS MEGHATÁROZÁS
 #define típusmeghatározás typedef
+#define szerkezet struct
+#define számbavételezés enum
+#define szakszervezet union
 
 #endif
