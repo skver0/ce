@@ -114,8 +114,9 @@
 
 // DINAMIKUS MEMÓRIA KEZELÉS
 #define memóriaelosztás malloc
-#define ingyen free
 #define újraelosztás realloc
+#define nullaelosztás calloc
+#define ingyen free
 
 // TÍPUS MEGHATÁROZÁS
 #define típusmeghatározás typedef
