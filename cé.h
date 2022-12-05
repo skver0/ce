@@ -126,6 +126,7 @@
 #define fájllerakszöveg fputs
 #define fájlnéz fseek
 #define visszateker rewind
+#define fájlmegmond ftell
 
 // EGYÉB
 #define ugrás goto
@@ -144,6 +145,35 @@
 #define újraelosztás realloc
 #define nullaelosztás calloc
 #define ingyen free
+
+// MATEMATIKA FEJLÉC
+#define arkuszkoszinusz acos
+#define arkuszkoszinuszhiperbolikusz acosh
+#define arkuszszinusz asin
+#define arkuszszinuszhiperbolikusz asinh
+#define arkusztangens atan
+#define arkusztangens2 atan2
+#define arkusztangenshiperbolikusz atanh
+#define köbön cbrt
+#define plafon ceil
+#define koszinusz cos
+#define koszinuszhiperbolikusz cosh
+#define természeteshatvány exp
+#define lebegőpontosabszolútérték fabs
+#define abszolútérték abs
+#define padló floor
+#define átfogó hypot
+#define logaritmus log
+#define tízesalapúlogaritmus log10
+#define hadifogoly pow
+#define szinusz sin
+#define szinuszhiperbolikusz sinh
+#define négyzetgyök sqrt
+#define tangens tan
+#define tangenshiperbolikusz tanh
+#define törtrész modf
+#define modulus fmod
+#define ketteshatvány ldexp
 
 // TÍPUS MEGHATÁROZÁS
 #define típusmeghatározás typedef
