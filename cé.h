@@ -1,7 +1,7 @@
 ﻿#ifdef CÉ_H
 #define CÉ_H
 
-//  LOGIKAI OPERÁTOROK
+// LOGIKAI OPERÁTOROK
 #define és &&
 #define vagy ||
 #define nemegyenlő !=
@@ -11,7 +11,7 @@
 #define nagyobbvagyegyenlő >=
 #define kisebbvagyegyenlő <=
 
-//  KETTES SZÁMRENDSZERŰ OPERÁTOROK
+// KETTES SZÁMRENDSZERŰ OPERÁTOROK
 #define logikaiés &
 #define logikaivagy |
 #define kizáróvagy ^
@@ -19,7 +19,7 @@
 #define balramozgat <<
 #define jobbramozgat >>
 
-//  MŰVELETEK
+// MŰVELETEK
 #define megmeg ++
 #define bölböl --
 #define megegyenlő +=
@@ -33,7 +33,7 @@
 #define maradék %
 #define értékadás =
 
-//  TÍPUSOK
+// TÍPUSOK
 #define űr void
 #define előjeles signed
 #define előjelnélküli unsigned
@@ -49,7 +49,7 @@
 #define kocsi auto
 #define fájl FILE
 
-//  POINTEREK
+// POINTEREK
 #define egészmutató int *
 #define floámutató float *
 #define karaktermutató char *
@@ -60,7 +60,7 @@
 #define nagyonhosszúmutató long long *
 #define fájlmutató FILE *
 
-//  LOGIKAI + hozzá tartozó
+// LOGIKAI + hozzá tartozó
 #define ha if
 #define különben else
 #define kapcsoló switch
@@ -70,18 +70,18 @@
 #define törés break
 #define folytat continue
 
-//  CIKLUSOK
+// CIKLUSOK
 #define ciklus for
 #define amíg while
 #define csináld do
 
-//  IN&OUTPUT + egyéb stringek
+// IN&OUTPUT + egyéb stringek
 #define beolvas scanf
 #define kiír printf
 #define sortörés "\n"
 #define egészÚjSor "%d\n"
 
-//  SZERKEZET
+// SZERKEZET
 #define sorvége ;
 #define kezdő main
 #define kódblokkeleje {
@@ -100,7 +100,34 @@
 #define záróidézőjel )
 #define idézőjelben(...) #__VA_ARGS__
 
-//  EGYÉB
+// SZABVÁNYOS SZÖVEG FÜGGVÉNYEK
+#define szövegmásolás strcpy
+#define szövegösszehasonlítás strcmp
+#define szövegösszefűzés strcat
+#define szövegszöveg strstr
+#define begyűjt gets
+#define lerak puts
+#define begyűjtkarakter getc
+#define lerakkarakter putc
+#define karakterszerez getchar
+#define karakterlerak putchar
+#define futóolvasó sprintf
+
+// FÁJLMŰVELETEK
+#define fájlnyitás fopen
+#define fájlbezárás fclose
+#define fájlkiolvasás fprintf
+#define fájlbeolvasás fscanf
+#define fájlolvas fread
+#define fájlír fwrite
+#define fájlbegyűjtkarakter fgetc
+#define fájllerakkarakter fputc
+#define fájlbegyűjtszöveg fgets
+#define fájllerakszöveg fputs
+#define fájlnéz fseek
+#define visszateker rewind
+
+// EGYÉB
 #define ugrás goto
 #define mérete sizeof
 #define semmi NULL
