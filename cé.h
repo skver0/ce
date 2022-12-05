@@ -111,7 +111,7 @@
 #define lerakkarakter putc
 #define karakterszerez getchar
 #define karakterlerak putchar
-#define futf sprintf
+#define futóolvasó sprintf
 
 // FÁJLMŰVELETEK
 #define fájlnyitás fopen
@@ -120,10 +120,10 @@
 #define fájlbeolvasás fscanf
 #define fájlolvas fread
 #define fájlír fwrite
-#define fbegyűjtkarakter fgetc
-#define flerakkarakter fputc
-#define fbegyűjtszöveg fgets
-#define flerakszöveg fputs
+#define fájlbegyűjtkarakter fgetc
+#define fájllerakkarakter fputc
+#define fájlbegyűjtszöveg fgets
+#define fájllerakszöveg fputs
 #define fájlnéz fseek
 #define visszateker rewind
 
