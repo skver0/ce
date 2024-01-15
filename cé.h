@@ -1,4 +1,4 @@
-﻿#ifdef CÉ_H
+﻿#ifndef CÉ_H
 #define CÉ_H
 
 // LOGIKAI OPERÁTOROK
